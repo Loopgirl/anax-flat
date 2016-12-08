@@ -1,11 +1,11 @@
 ---
 titleBreadcrumb: Home
 ...
-En hemsida som använder ramverket Anax-Flat
+Kursen Design - Nicole Zaade Me-sida
 ===============================
 
-Hi there.
 Hej!
 
-Kul att du kunde titta förbi. Detta är en sida som är skapad med hjälp av ramverket
-Anax Flat. Detta är ingen seriös sida utan är en del av kursen Design.
+Mitt namn är Nicole Zaade och jag läser webbprogrammerare på BTH.se
+Jag jobbar fulltid och läser denna kurs på fritiden. När jag inte
+programmerar så umgås jag med vänner eller tränar. Denna sida är inte en seriös sida utan enbart till för att läsa kursen Design på BTH.

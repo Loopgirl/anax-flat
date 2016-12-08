@@ -1,0 +1,30 @@
+O:8:"stdClass":7:{s:4:"file";s:8:"about.md";s:7:"section";s:0:"";s:5:"level";i:0;s:8:"internal";b:0;s:7:"tocable";b:0;s:5:"views";a:4:{s:10:"breadcrumb";a:3:{s:6:"region";s:10:"breadcrumb";s:8:"template";s:18:"default/breadcrumb";s:4:"data";a:2:{s:4:"meta";a:1:{s:4:"type";s:10:"breadcrumb";}s:10:"breadcrumb";a:1:{i:0;a:2:{s:3:"url";s:5:"about";s:4:"text";s:8:"Om Sidan";}}}}s:5:"flash";a:3:{s:6:"region";s:5:"flash";s:8:"template";s:13:"default/image";s:4:"data";a:1:{s:3:"src";s:15:"img/sunset.jpeg";}}s:6:"byline";a:5:{s:5:"title";N;s:4:"data";a:2:{s:7:"content";s:383:"<div style="border: 1px solid black; margin-bottom: 10px;">
+<img style="vertical-align:top" src=../../htdocs/img/flower.jpg>
+Denna sida är gjord av Mikael Roos och modiferat av Nicole Zaade.
+Nicole Zaade jobbar fulltid och läser till webbprogrammerare då hon
+gillar programmering. Denna sida är inte seriös utan används enbart
+i syfte att lära mig anax-flat ramverket.
+</div>
+";s:4:"meta";a:2:{s:4:"type";s:7:"content";s:5:"route";s:12:"block/byline";}}s:6:"region";s:10:"after-main";s:8:"template";s:15:"default/content";s:4:"sort";i:1;}s:4:"main";a:2:{s:8:"template";s:15:"default/article";s:4:"data";a:3:{s:15:"titleBreadcrumb";s:8:"Om Sidan";s:7:"content";s:446:"<h1>Om denna sida</h1>
+
+<p>Denna sida är till för:</p>
+
+<p>Används som lärningsmedel i kursen <a href="http://dbwebb.se/design">dbwebb course design</a>.</p>
+
+<p>Källkoden för denna sida finns att hitta på GitHub <a href="https://github.com/Loopgirl/anax-flat.git">loopgirl/anax-flat</a></p>
+
+<p>Sidan är producerad av <a href="https://mikaelroos.se">Mikael Roos</a> (mos@dbwebb.se).</p>
+
+<p><img src=../../htdocs/img/dbwebbisar.jpg></p>
+";s:7:"excerpt";s:446:"<h1>Om denna sida</h1>
+
+<p>Denna sida är till för:</p>
+
+<p>Används som lärningsmedel i kursen <a href="http://dbwebb.se/design">dbwebb course design</a>.</p>
+
+<p>Källkoden för denna sida finns att hitta på GitHub <a href="https://github.com/Loopgirl/anax-flat.git">loopgirl/anax-flat</a></p>
+
+<p>Sidan är producerad av <a href="https://mikaelroos.se">Mikael Roos</a> (mos@dbwebb.se).</p>
+
+<p><img src=../../htdocs/img/dbwebbisar.jpg></p>
+";}}}s:11:"frontmatter";a:2:{s:15:"titleBreadcrumb";s:8:"Om Sidan";s:5:"title";s:13:"Om denna sida";}}

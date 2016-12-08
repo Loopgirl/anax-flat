@@ -1,5 +1,5 @@
 ####Anax Flat
 
-To build websites based on markup documents and configuration in YAML.
+Denna sida är byggd med hjälp av ramverket Anax Flat.
 
-[Get going](http://dbwebb.se/kunskap/bygg-me-sida-med-anax-flat).
+[Testa själv](http://dbwebb.se/kunskap/bygg-me-sida-med-anax-flat).
