@@ -14,6 +14,7 @@ $themes = [
     "dark"      => "Dark background and light text",
     "colorful"  => "Make a very colorful theme",
     "typography" => "A theme where the typography really stands out",
+    "vgrid"     => "Vertikal Grid",
     "separator1" => $separator,
     "fun"       => "All fun, test and play, make it stand out!",
 ];
@@ -54,7 +55,7 @@ $message = $this->di->session->readOnce("theme-message");
                 </option>
             <?php endforeach; ?>
         </select>
-        
+
         <output>
             <?php if ($message) : ?>
                 <p><?= $message ?></p>
